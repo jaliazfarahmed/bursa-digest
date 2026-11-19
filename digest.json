@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "digest_date": "2026-11-19",
-  "updated_at": "2026-11-19T14:05:00+08:00",
+  "updated_at": "2026-11-19T16:10:38+00:00",
   "timezone": "Asia/Kuala_Lumpur",
   "source": "BMB News Bot",
   "sections": {
@@ -20,81 +20,6 @@
         "binding": true,
         "value_rm": 50980000,
         "counterparty": "Unnamed client"
-      },
-      {
-        "company": "Gamuda Bhd",
-        "stock_code": "GAMUDA",
-        "category": "contract",
-        "headline": "Gamuda-led JV wins RM2.61 billion Keelung Underground MRT contract in Taiwan",
-        "summary": "Gamuda's 80:20 unincorporated joint venture with Taiwan's Feng Shun Construction Co Ltd received a letter of award from the Department of Rapid Transit Systems of the New Taipei City Government for a NT$21.02 billion (about RM2.61 billion) design-and-build contract covering 2.4 km of Keelung Underground MRT works, including stations SB32 and SB33. Gamuda's 80% share is about RM2.09 billion (NT$16.82 billion). The project duration is 2,700 days, or about 7.4 years.",
-        "date": "2026-11-16",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825967",
-        "caution": null,
-        "deal_type": "loa",
-        "binding": true,
-        "value_rm": 2610000000,
-        "counterparty": "Department of Rapid Transit Systems, New Taipei City Government"
-      },
-      {
-        "company": "Vantris Energy Bhd",
-        "stock_code": "VANTNRG",
-        "category": "contract",
-        "headline": "Vantris Energy JV secures RM1.7 billion Petrobras subsea contract offshore Brazil",
-        "summary": "An indirect 50%-owned joint venture with Paratus Energy Services Ltd, through Seagems Offshore, secured a US$410 million (RM1.7 billion) four-year contract from Petroleo Brasileiro S.A. (Petrobras) for pipelay support vessel and subsea engineering and installation services offshore Brazil. Vantris has an effective 50% share. The contract was signed on 16 November 2026. Work is expected to begin towards the end of the third quarter of Vantris's financial year ending 31 January 2029, using the Seagems Safira vessel still under construction.",
-        "date": "2026-11-17",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/826176",
-        "caution": "Vantris's effective share is 50% of the contract value. Work is not expected to contribute until around late FY2029.",
-        "deal_type": "contract",
-        "binding": true,
-        "value_rm": 1700000000,
-        "counterparty": "Petrobras (Petroleo Brasileiro S.A.)"
-      },
-      {
-        "company": "Steel Hawk Bhd",
-        "stock_code": "HAWK",
-        "category": "contract",
-        "headline": "Steel Hawk bags RM59.24 million EPCC letter of award for Perak housing project",
-        "summary": "Wholly owned subsidiary Steel Hawk Engineering Sdn Bhd received a RM59.24 million turnkey engineering, procurement, construction and commissioning letter of award from Mimbar Nusantara Homes Sdn Bhd to build 240 houses across four phases of the Chemor Kayangan housing development in Kinta, Perak, on land for Lembaga Perumahan dan Hartanah Perak. Each phase is to be completed within 12 months of commencement.",
-        "date": "2026-11-17",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/826175",
-        "caution": "Construction start dates were not disclosed.",
-        "deal_type": "loa",
-        "binding": true,
-        "value_rm": 59240000,
-        "counterparty": "Mimbar Nusantara Homes Sdn Bhd"
-      },
-      {
-        "company": "Econpile Holdings Bhd",
-        "stock_code": "ECONBHD",
-        "category": "contract",
-        "headline": "Econpile secures RM21 million letter of award for Kampung Baru mixed-use works",
-        "summary": "Wholly owned subsidiary Econpile (M) Sdn Bhd received a RM21 million letter of award from KL City Gateway Sdn Bhd for earthworks and substructure works on a mixed-use development in Kampung Baru, Kuala Lumpur, comprising a 49-storey tower with 640 office units and 192 serviced apartment units. The contract is to be completed within 15 months from a commencement date to be set by the project architect.",
-        "date": "2026-11-17",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/826189",
-        "caution": "The commencement date has not yet been fixed.",
-        "deal_type": "loa",
-        "binding": true,
-        "value_rm": 21000000,
-        "counterparty": "KL City Gateway Sdn Bhd"
-      },
-      {
-        "company": "Sum Technology Bhd",
-        "stock_code": "SUM",
-        "category": "contract",
-        "headline": "Sum Technology secures RM30 million provisional LOA for mechanical works in the Philippines",
-        "summary": "Wholly owned subsidiary Sum System Solution Sdn Bhd accepted a US$7.35 million (about RM30 million) letter of award for design-and-build mechanical works for a client in the Philippines aviation industry. The client was not named.",
-        "date": "2026-11-17",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/826205",
-        "caution": "The contract value is provisional and subject to customer adjustments. The project timeline has not yet been fixed, and the client was not named.",
-        "deal_type": "loa",
-        "binding": true,
-        "value_rm": 30000000,
-        "counterparty": "Unnamed client in the Philippines aviation industry"
       },
       {
         "company": "Willownex Bhd",
@@ -140,36 +65,6 @@
         "binding": true,
         "value_rm": 376000000,
         "counterparty": "Chin Hin Construction Engineering Sdn Bhd / PMCK Bhd"
-      },
-      {
-        "company": "Alam Maritim Resources Bhd",
-        "stock_code": null,
-        "category": "contract",
-        "headline": "Alam Maritim forms 70:30 JV with Singapore's Trident Oceanus for offshore projects",
-        "summary": "Subsidiary Subsea Worldwide Solutions Sdn Bhd signed a joint venture agreement on 13 November 2026 with Singapore-based Trident Oceanus Pte Ltd to undertake offshore transportation and installation projects in Southeast Asia and India. SWS will hold a 70% stake and Trident 30%, with initial paid-up capital of RM10,000. The company said the venture is not expected to have any material impact on the financial year ending 30 June 2027, but should contribute positively to future earnings.",
-        "date": "2026-11-13",
-        "source_name": "The Star",
-        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/13/alam-maritim-forms-jv-with-singapore-firm-for-offshore-projects",
-        "caution": "This is a vehicle to pursue work, not a won contract. Stock code was not shown in the source article.",
-        "deal_type": "jv",
-        "binding": true,
-        "value_rm": null,
-        "counterparty": "Trident Oceanus Pte Ltd"
-      },
-      {
-        "company": "SkyeChip Bhd",
-        "stock_code": null,
-        "category": "contract",
-        "headline": "SkyeChip signs largely non-binding MoU with France's SiPearl for proposed Arm-based JV",
-        "summary": "SkyeChip signed a memorandum of understanding with France-based SiPearl SAS to jointly develop and commercialise a computing platform based on Arm Limited's Compute Subsystem N4 technology through a proposed joint venture in Malaysia, with SkyeChip holding 51% and SiPearl 49%. The companies aim to incorporate the JV by December 2026, subject to board approvals. The MoU will remain in effect for 36 months.",
-        "date": "2026-11-17",
-        "source_name": "The Star",
-        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/17/skyechip-france039s-sipearl-plan-joint-venture-to-develop-arm-based-compute-platform",
-        "caution": "The MoU is largely non-binding and can be terminated by either party with 30 days' written notice. Stock code was not shown in the source article.",
-        "deal_type": "mou",
-        "binding": false,
-        "value_rm": null,
-        "counterparty": "SiPearl SAS"
       }
     ],
     "positive": [
@@ -238,32 +133,9 @@
         "source_name": "The Edge Malaysia",
         "source_url": "https://theedgemalaysia.com/node/826342",
         "caution": null
-      },
-      {
-        "company": "Hartalega Holdings Bhd",
-        "stock_code": null,
-        "category": "positive",
-        "headline": "Hartalega 2Q net profit jumps 79.3% to RM32.8 million",
-        "summary": "Net profit for the second quarter ended 30 September 2026 rose 79.3% to RM32.8 million from RM18.3 million a year earlier, with revenue up 19.5% to RM644.7 million, driven by higher average selling prices and improved operating efficiency. First-half net profit more than tripled to RM102.8 million from RM30.9 million, while revenue rose 14.4% to RM1.25 billion.",
-        "date": "2026-11-13",
-        "source_name": "The Star",
-        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/13/hartalegas-net-profit-jumps",
-        "caution": "Stock code was not shown in the source article."
       }
     ],
     "negative": [
-      {
-        "company": "Zetrix AI Bhd",
-        "stock_code": "ZETRIX",
-        "category": "negative",
-        "headline": "Zetrix AI says it cannot repay RM2 billion sukuk after missing a RM25 million payment",
-        "summary": "Zetrix AI told Bursa Malaysia it is currently unable to repay the RM2 billion outstanding under its sukuk wakalah programme after missing a RM25 million repayment. It also said the October 2026 suspension of the group and subsidiary MyEG Sdn Bhd as Road Transport Department (JPJ) revenue collection agents is expected to reduce group revenue by about 15%, with a direct impact on profitability. The company withdrew its 2026 interim dividend, is withholding RM49.76 million of outstanding final dividends, and is contesting RM353.13 million in Inland Revenue Board assessments. On 17 November 2026 it obtained an interim High Court order blocking Macquarie Bank Ltd from serving a winding-up petition over an unpaid RM2.06 million cash dividend.",
-        "date": "2026-11-13",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825691",
-        "caution": "Bursa Malaysia has directed settlement of outstanding cash dividends by 23 November 2026. The inter partes hearing on the injunction is fixed for 1 December 2026. Later court update: https://theedgemalaysia.com/node/826082",
-        "negative_type": "default"
-      },
       {
         "company": "TSH Resources Bhd",
         "stock_code": "TSH",
@@ -274,66 +146,6 @@
         "source_name": "The Edge Malaysia",
         "source_url": "https://theedgemalaysia.com/node/826331",
         "caution": "The company said core pre-tax profit excluding the fine was slightly higher, at RM89.34 million versus RM86.02 million.",
-        "negative_type": "earnings_decline"
-      },
-      {
-        "company": "Pos Malaysia Bhd",
-        "stock_code": "POS",
-        "category": "negative",
-        "headline": "Pos Malaysia 3Q net loss widens 37.6% to RM62.25 million, extending losses to 33 consecutive quarters",
-        "summary": "The national postal operator posted a net loss of RM62.25 million for the third quarter ended 30 September 2026, widening 37.6% from RM45.23 million a year earlier, despite revenue rising 8.3% to RM501.22 million. The wider loss included RM27.2 million of one-off vessel impairments and asset write-offs after the closure of Pos Shop. The group has been loss-making since the quarter ended September 2018.",
-        "date": "2026-11-16",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825999",
-        "caution": "Underlying loss before tax, excluding the one-off charges, narrowed 20.9% to RM31 million. The nine-month net loss narrowed to RM125.26 million from RM132.17 million.",
-        "negative_type": "loss"
-      },
-      {
-        "company": "Affin Bank Bhd",
-        "stock_code": "AFFIN",
-        "category": "negative",
-        "headline": "Affin Bank says FY2026 PBT target of RM850 million and 5% ROE target are unlikely to be met",
-        "summary": "After a 21.7% year-on-year decline in third-quarter net profit to RM113.57 million, Affin Bank's management acknowledged that its FY2026 profit-before-tax target of RM850 million and return-on-equity target of 5% are unlikely to be met, amid deposit competition, margin pressure and elevated credit provisions. Net interest margin is expected to narrow further in the fourth quarter of 2026, and FY2026 credit-cost guidance was raised to 44 to 50 basis points.",
-        "date": "2026-11-17",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/826087",
-        "caution": null,
-        "negative_type": "target_missed"
-      },
-      {
-        "company": "Teo Seng Capital Bhd",
-        "stock_code": "TEOSENG",
-        "category": "negative",
-        "headline": "Teo Seng 3Q net profit falls 16.4% to RM21.19 million; nine-month profit down 60%",
-        "summary": "Net profit for the third quarter ended 30 September 2026 fell 16.41% to RM21.19 million from RM25.35 million a year earlier, despite revenue rising 7.93% to RM217.54 million, as the removal of the egg subsidy scheme weighed on its poultry farming business. Nine-month net profit fell 60.12% to RM43.29 million from RM108.57 million. No dividend was recommended for the quarter.",
-        "date": "2026-11-16",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825983",
-        "caution": null,
-        "negative_type": "earnings_decline"
-      },
-      {
-        "company": "Heineken Malaysia Bhd",
-        "stock_code": "HEIM",
-        "category": "negative",
-        "headline": "Heineken Malaysia 3Q net profit drops 38.74% to RM69.18 million",
-        "summary": "Net profit for the third quarter ended 30 September 2026 fell 38.74% to RM69.18 million from RM112.95 million a year earlier, with revenue down 17.82% to RM539.14 million. The company cited lower sales volume, subdued consumer sentiment, the additional 10% excise duty implemented on 1 November 2025, and inventory normalisation among distributors and outlets. Nine-month net profit fell 29.53% to RM224.17 million. No dividend was recommended for the quarter.",
-        "date": "2026-11-11",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825368",
-        "caution": "News date is 11 November 2026, one day outside a strict seven-day window from 19 November.",
-        "negative_type": "earnings_decline"
-      },
-      {
-        "company": "S P Setia Bhd",
-        "stock_code": "SPSETIA",
-        "category": "negative",
-        "headline": "S P Setia 3Q net profit drops 52.06% to RM32.61 million",
-        "summary": "Net profit for the third quarter ended 30 September 2026 dropped 52.06% to RM32.61 million from RM68.03 million a year earlier, with revenue down 22.9% to RM672.55 million, due to slower sales, higher operating expenses, the absence of a land sale, and a higher comparative base from more project completions a year earlier. Nine-month net profit fell 31.11% to RM161.8 million. No dividend was declared for the quarter.",
-        "date": "2026-11-11",
-        "source_name": "The Edge Malaysia",
-        "source_url": "https://theedgemalaysia.com/node/825383",
-        "caution": "News date is 11 November 2026, one day outside a strict seven-day window from 19 November.",
         "negative_type": "earnings_decline"
       }
     ]
