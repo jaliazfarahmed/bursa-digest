@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "digest_date": "2026-11-20",
+  "updated_at": "2026-11-20T08:58:00+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "source": "BMB News Bot",
+  "sections": {
+    "contract": [
+      {
+        "company": "Shin Yang Group Bhd",
+        "stock_code": "SHINYANG",
+        "category": "contract",
+        "headline": "Shin Yang wins RM316 million Home Ministry offshore patrol vessel contract",
+        "summary": "Accepted a letter of award from the Home Ministry to complete remaining works on OPV 2 (RM129.56m) and OPV 3 (RM186.44m) for the Malaysian Maritime Enforcement Agency, excluding sales tax. Commenced 15 Oct 2026 and runs 36 months to 14 Oct 2029.",
+        "date": "2026-11-20",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/20/shin-yang-in-rm316mil-govt-contract-win",
+        "caution": null,
+        "deal_type": "loa",
+        "binding": true,
+        "value_rm": 316000000,
+        "counterparty": "Home Ministry (Malaysia)"
+      },
+      {
+        "company": "Seremban Engineering Bhd",
+        "stock_code": "SEB",
+        "category": "contract",
+        "headline": "SEB secures RM65.5 million data centre drainage and water tank subcontract",
+        "summary": "Letter of award from major shareholder MIE Industrial Sdn Bhd for Package 1 drainage and water tank works for a data centre in Negeri Sembilan. Expected 20 Nov 2026 to 30 Apr 2027 (5.5 months).",
+        "date": "2026-11-19",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/19/seb-secures-rm655mil-data-centre-contract",
+        "caution": "Counterparty is SEB's major shareholder (related party).",
+        "deal_type": "loa",
+        "binding": true,
+        "value_rm": 65500000,
+        "counterparty": "MIE Industrial Sdn Bhd"
+      },
+      {
+        "company": "KJTS Group Bhd",
+        "stock_code": "KJTS",
+        "category": "contract",
+        "headline": "KJTS bags RM48 million mechanical works subcontract for Port Dickson data centre",
+        "summary": "Subcontract from Gamuda Engineering Sdn Bhd for mechanical works on a hyperscale data centre for a US-based tech multinational. Phase 1 completion 22 Oct 2027, Phase 2 on 21 Jan 2028.",
+        "date": "2026-11-19",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/19/kjts-bags-rm48mil-mechanical-works-contract-for-port-dickson-data-centre",
+        "caution": null,
+        "deal_type": "contract",
+        "binding": true,
+        "value_rm": 48000000,
+        "counterparty": "Gamuda Engineering Sdn Bhd"
+      }
+    ],
+    "positive": [
+      {
+        "company": "Sunway Healthcare Holdings Bhd",
+        "stock_code": "SUNMED",
+        "category": "positive",
+        "headline": "Sunway Healthcare 3Q net profit jumps 59% to RM95.17 million",
+        "summary": "Net profit rose to RM95.17m from RM59.69m; revenue up to RM737.44m from RM593.13m on higher patient volumes and new hospitals. Nine-month net profit RM206.66m.",
+        "date": "2026-11-20",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/20/sunway-healthcare-posts-quarterly-profit-jump",
+        "caution": null
+      },
+      {
+        "company": "Petronas Gas Bhd",
+        "stock_code": "PETGAS",
+        "category": "positive",
+        "headline": "PetGas 3Q net profit rises to RM630.54 million, 18 sen dividend",
+        "summary": "Net profit RM630.54m vs RM444.23m a year earlier; revenue slightly lower at RM1.61bn. Third interim dividend of 18 sen, ex-date 9 Dec, payable 23 Dec 2026.",
+        "date": "2026-11-20",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/20/petgas-3q-earnings-up-to-rm63054mil",
+        "caution": null
+      },
+      {
+        "company": "Sunway Construction Group Bhd",
+        "stock_code": "SUNCON",
+        "category": "positive",
+        "headline": "SunCon 3Q net profit up 25% to RM105.1 million, 7.9 sen dividend",
+        "summary": "Net profit up 25% to RM105.1m despite 26% lower revenue (RM1.07bn); order book at record RM12.45bn. Third interim dividend 7.9 sen, ex-date 9 Dec, payable 17 Dec 2026.",
+        "date": "2026-11-20",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/20/suncons-3q26-net-profit-up-25-to-rm1051mil",
+        "caution": null
+      },
+      {
+        "company": "Sports Toto Bhd",
+        "stock_code": "SPTOTO",
+        "category": "positive",
+        "headline": "Sports Toto 1Q net profit rises 19.4% to RM26.4 million",
+        "summary": "Pre-tax profit up 3% to RM46.4m as H.R. Owen narrowed losses; revenue down 5.9% to RM1.41bn. First interim dividend 2 sen, ex 30 Dec, payable 15 Jan 2027.",
+        "date": "2026-11-19",
+        "source_name": "The Star Business",
+        "source_url": "https://www.thestar.com.my/business/business-news/2026/11/19/sports-toto-net-profit-rises-194-in-first-quarter",
+        "caution": null
+      }
+    ],
+    "negative": []
+  }
+}
